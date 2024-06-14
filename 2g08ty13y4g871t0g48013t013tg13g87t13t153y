@@ -1,6 +1,6 @@
 -- Nom d'utilisateur et ID utilisateur à vérifier
-local bannedUsername = "3encxwd"
-local bannedUserId = 12345678 -- Remplacez par l'ID utilisateur réel
+local bannedUsername = ""
+local bannedUserId = 2992414075 -- Remplacez par l'ID utilisateur réel
 
 -- Fonction pour récupérer le nom d'utilisateur
 local function getUsername()
